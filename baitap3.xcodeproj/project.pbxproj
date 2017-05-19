@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					8A99B6481EC9A5C400FB85CD = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 4GPH98GQLV;
 					};
 					8A99B65C1EC9A5C400FB85CD = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -401,6 +402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = baitap3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cusc.ctu.baitap3;
@@ -412,6 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = baitap3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cusc.ctu.baitap3;
@@ -484,6 +487,7 @@
 				8A99B6731EC9A5C400FB85CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A99B6741EC9A5C400FB85CD /* Build configuration list for PBXNativeTarget "baitap3Tests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +496,7 @@
 				8A99B6761EC9A5C400FB85CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A99B6771EC9A5C400FB85CD /* Build configuration list for PBXNativeTarget "baitap3UITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +505,7 @@
 				8A99B6791EC9A5C400FB85CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
